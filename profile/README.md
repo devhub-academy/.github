@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/devhub-academy-logo-dark.svg">
+    <img alt="DevHub Academy" src="./assets/devhub-academy-logo-light.svg" width="360">
+  </picture>
+</p>
+
 # DevHub Academy
 
 Hands-on technical training by **Developers Hub Sdn Bhd (DevHub)**, Malaysia. Courses, labs and trainer kits for developers and IT teams.
